@@ -1,0 +1,2 @@
+C:/og/begin/Triangle/build/CMakeFiles/ALL_BUILD.dir
+C:/og/begin/Triangle/build/CMakeFiles/ZERO_CHECK.dir
